@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/izumi-shikibu",
  "yomi": "いずみしきぶしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安中期",
+  "author": "和泉式部",
+  "desc": "和泉式部の家集。四季・恋・哀傷など多くの歌を収める。奥書に、第一から第三は藤原定家の自筆本、第四・第五は民部卿局の真筆本で写したとある。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -9461,6 +9466,6 @@
   "poems": 839,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
